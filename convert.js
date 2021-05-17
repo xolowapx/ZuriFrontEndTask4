@@ -3,7 +3,7 @@ Program: Zuri I4G Internship Training
 Exercise: FrontEnd Task 4A
 Intern Name: Solomon Ibeh;
 Slack Username: Solomon;
-Repo URL: 
+Repo URL: https://xolowapx.github.io/ZuriFrontEndTask4/
 */
 
 function convertFahrToCelcius(Fahr) {
